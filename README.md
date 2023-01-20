@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... web developer
 - 🌱 I’m currently learning ... FULL STACK DEVELOPMENT
 - 💞️ I’m looking to work in a Big MNC Company JOB ... 
-- 📫 How to reach me ... maheshnanduri@gmail.com
+- 📫 How to reach me ... maheshnanduri9@gmail.com
 
 <!---
 Maheshnanduri/Maheshnanduri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
